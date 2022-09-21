@@ -14,3 +14,6 @@ That's all you have to do!
 
 #### If this helped you in any way , consider buying me a coffee [here](https://www.buymeacoffee.com/SiddhiBh)
 Compiled By [Siddhi Bhanushali](https://github.com/siddhi-244)
+
+
+#### Please star this repository !!
